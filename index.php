@@ -1036,10 +1036,7 @@
                     <div class="elementor-element elementor-element-7107066 elementor-widget elementor-widget-image"
                       data-id="7107066" data-element_type="widget" data-widget_type="image.default">
                       <div class="elementor-widget-container">
-                        <img decoding="async" width="700" height="700" src='./assets/img/700.png     700w,
-                        .\assets\img\300.png 300w,
-                        .\assets\img\150.png 150w
-                            ' sizes="(max-width: 700px) 100vw, 700px" />
+                        <img decoding="async" width="700" height="700" src='./assets/img/700.png' sizes="(max-width: 700px) 100vw, 700px" />
                       </div>
                     </div>
                   </div>
