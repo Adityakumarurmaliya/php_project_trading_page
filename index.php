@@ -2189,12 +2189,14 @@
     };
   </script>
   <script
+    src="./frontend.js"></script>
+  <!-- <script
     src="https://kitnew.moxcreative.com/gettrade/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4"
-    id="elementor-frontend-js"></script>
-  <script
+    id="elementor-frontend-js"></script> -->
+  <!-- <script
     src="https://kitnew.moxcreative.com/gettrade/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.7"
-    id="pro-elements-handlers-js"></script>
-  <script
+    id="pro-elements-handlers-js"></script> -->
+  <!-- <script
     src="https://kitnew.moxcreative.com/gettrade/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.8.8"
     id="animate-circle-js"></script>
   <script id="elementskit-elementor-js-extra">
@@ -2202,9 +2204,9 @@
       ajaxurl: "https:\/\/kitnew.moxcreative.com\/gettrade\/wp-admin\/admin-ajax.php",
       nonce: "f33a29da70",
     };
-  </script>
+  </script> -->
   <script
-    src="https://kitnew.moxcreative.com/gettrade/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.8.8"
+    src="./base.js"
     id="elementskit-elementor-js"></script>
   <!-- !-- Bootstrap 5 JS CDN Links  -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
